@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tuan!
 
 🚀 Welcome to my GitHub profile!  
-I’m passionate about **AI Engineering, NLP, and Data Analysis**.  
+I’m passionate about **AI Engineering, NLP, Computer Vision and Data Analysis**.  
 Currently, I’m on a journey to build impactful projects and learn new technologies every day.  
 
 ---
@@ -15,15 +15,8 @@ Currently, I’m on a journey to build impactful projects and learn new technolo
 
 ---
 
-## 📌 Featured Projects
-- 🧠 **AI Engineer Roadmap** – My personal learning journey  
-- 📊 **Football Analytics Dashboard** – Data visualization with Streamlit + MongoDB  
-- 🌍 **QGIS Projects** – Geospatial analysis & visualization  
-
----
-
 ## 📫 How to reach me
-- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/nguyxn-twxnh-8b5104258/))  
+- 💼 [LinkedIn]((https://www.linkedin.com/in/nguyxn-twxnh-8b5104258/))  
 - 📧 Email: callmetwxnh@gmail.com
 
 ⭐️ If you like my work, feel free to follow or star my repositories hehe :))
