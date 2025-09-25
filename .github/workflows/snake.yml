@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: TwxnhNGUXN   # ⚠️ thay bằng đúng username GitHub
+          github_user_name: TwxnhNGUXN  
           outputs: dist/snake.svg
 
       - name: Push Snake to output branch
