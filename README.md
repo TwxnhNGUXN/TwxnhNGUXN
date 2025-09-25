@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Tuan!
 
-<!--
-**TwxnhNGUXN/TwxnhNGUXN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my GitHub profile!  
+I’m passionate about **AI Engineering, NLP, and Data Analysis**.  
+Currently, I’m on a journey to build impactful projects and learn new technologies every day.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 I’m currently learning: **NLP, MLOps, and Computer Vision**
+- 💡 Interested in: **AI applications, Data Engineering, and Open Source**
+- 💻 Favorite tools: `Python`, `Django`, `Pandas`, `MongoDB`, `QGIS`
+- 📊 I enjoy: Turning **raw data** into **meaningful insights**
+- 🎶 Fun fact: I also play around with **music production** in FL Studio  
+
+---
+
+## 📌 Featured Projects
+- 🧠 **AI Engineer Roadmap** – My personal learning journey  
+- 📊 **Football Analytics Dashboard** – Data visualization with Streamlit + MongoDB  
+- 🌍 **QGIS Projects** – Geospatial analysis & visualization  
+
+---
+
+## 📫 How to reach me
+- 💼 [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/nguyxn-twxnh-8b5104258/))  
+- 📧 Email: callmetwxnh@gmail.com
+
+⭐️ If you like my work, feel free to follow or star my repositories hehe :))
