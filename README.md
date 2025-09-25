@@ -20,3 +20,6 @@ Currently, I’m on a journey to build impactful projects and learn new technolo
 - 📧 Email: callmetwxnh@gmail.com
 
 ⭐️ If you like my work, feel free to follow or star my repositories hehe :))
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+</p>
