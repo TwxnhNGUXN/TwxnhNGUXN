@@ -24,3 +24,4 @@ Currently, I’m on a journey to build impactful projects and learn new technolo
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
 </p>
 
+![snake gif](https://github.com/TwxnhNGUXN/TwxnhNGUXN/blob/output/snake.svg)
