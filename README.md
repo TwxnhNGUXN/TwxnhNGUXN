@@ -16,7 +16,7 @@ Currently, I’m on a journey to build impactful projects and learn new technolo
 ---
 
 ##  How to reach me
--  [LinkedIn]((https://www.linkedin.com/in/nguyxn-twxnh-8b5104258/))  
+-  [LinkedIn](https://www.linkedin.com/in/nguyxn-twxnh-8b5104258/)  
 -  Email: callmetwxnh@gmail.com
 
  If you like my work, feel free to follow or star my repositories hehe :))
