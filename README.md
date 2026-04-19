@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tuan Anh !
 
  Welcome to my GitHub profile!  
-I’m passionate about **AI Engineering, NLP, Computer Vision and Data Analysis**.  
+I’m passionate about **AI Engineering, NLP, Computer Vision and Data Engineering**.  
 Currently, I’m on a journey to build impactful projects and learn new technologies every day.  
 
 ---
@@ -9,8 +9,8 @@ Currently, I’m on a journey to build impactful projects and learn new technolo
 ##  About Me
 -  I’m currently learning: **NLP, MLOps, and Computer Vision**
 -  Interested in: **AI applications, Data Engineering, and Open Source**
--  Favorite tools: `Python`, `Django`, `Pandas`, `MongoDB`, `QGIS`
--  I enjoy: Turning **raw data** into **meaningful insights**
+-  Favorite tools: `Python`, `Pandas`, `MongoDB`, `QGIS`
+-  I enjoy my work
 -  Fun fact: I also play around with **music production** in FL Studio  
 
 ---
