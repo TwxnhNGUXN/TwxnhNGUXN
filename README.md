@@ -1,7 +1,7 @@
 #  Hi, I'm Tuan Anh !
 
  Welcome to my GitHub profile!  
-I’m passionate about **AI Engineering, NLP, Computer Vision and Data Engineering**.  
+I’m passionate about **AI Engineering, NLP, Computer Vision **.  
 Currently, I’m on a journey to build impactful projects and learn new technologies every day.  
 
 ---
